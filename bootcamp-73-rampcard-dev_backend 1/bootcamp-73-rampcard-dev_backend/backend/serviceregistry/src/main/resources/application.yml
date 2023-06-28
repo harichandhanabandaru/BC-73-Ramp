@@ -1,0 +1,17 @@
+server:
+  port: 8761
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+
+
+spring:
+  flyway:
+    baselineOnMigrate: true
+    outOfOrder: true
+  datasource:
+    url: jdbc:mysql://54.86.138.25:30000/ramp_db
+    username: root
+    password: Bootcamp@73!
