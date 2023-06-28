@@ -1,0 +1,436 @@
+{
+  "rampCategory": [
+    {
+      "id": 1,
+      "name": "Airlines"
+    },
+    {
+      "id": 2,
+      "name": "Fuel and Gas"
+    },
+    {
+      "name": "Food",
+      "id": 3
+    }
+  ],
+  "quickbookCategory": ["Expense", "Travel", "Travel meals", "Hotels"],
+  "mapping": [
+    {
+      "id": 1,
+      "rampCategory": "Airlines",
+      "quickbookCategory": "Travel"
+    },
+    {
+      "id": 2,
+      "rampCategory": "Fuel and Gas",
+      "quickbookCategory": "Expense"
+    },
+    {
+      "rampCategory": "Food",
+      "quickbookCategory": "Travel meals",
+      "id": 3
+    }
+  ],
+  "rampCards": [
+    {
+      "id": 2,
+      "merchantName": "Zara",
+      "product": "casio",
+      "amount": "$42,000",
+      "date": "Apr 14, 2004",
+      "user": ["Hellena John", "(Virtual 7007)"],
+      "receipt": "#200257",
+      "memo": "21-00006",
+      "quickbooks": "Expense"
+    },
+    {
+      "id": 3,
+      "merchantName": "Mango",
+      "product": "casio",
+      "amount": "$42,000",
+      "date": "Apr 14, 2004",
+      "user": ["Hellena John", "(Virtual 7007)"],
+      "receipt": "#200257",
+      "memo": "21-00006"
+    },
+    {
+      "id": 4,
+      "merchantName": "Mango",
+      "product": "casio",
+      "amount": "$42,000",
+      "date": "Apr 14, 2004",
+      "user": ["Hellena John", "(Virtual 7007)"],
+      "receipt": "#200257",
+      "memo": "21-00006"
+    },
+    {
+      "id": 5,
+      "merchantName": "Mango",
+      "product": "casio",
+      "amount": "$42,000",
+      "date": "Apr 14, 2004",
+      "user": ["Hellena John", "(Virtual 7007)"],
+      "receipt": "#200257",
+      "memo": "21-00006"
+    },
+    {
+      "id": 6,
+      "merchantName": "Westside",
+      "product": "casio",
+      "amount": "$42,000",
+      "date": "Apr 14, 2004",
+      "user": ["Hellena John", "(Virtual 7007)"],
+      "receipt": "#200257",
+      "memo": "21-00006",
+      "quickbooks": "Expense"
+    },
+    {
+      "id": 7,
+      "merchantName": "Westside",
+      "product": "casio",
+      "amount": "$42,000",
+      "date": "Apr 14, 2004",
+      "user": ["Hellena John", "(Virtual 7007)"],
+      "receipt": "#200257",
+      "memo": "21-00006",
+      "quickbooks": "Expense"
+    },
+    {
+      "id": 8,
+      "merchantName": "Westside",
+      "product": "casio",
+      "amount": "$42,000",
+      "date": "Apr 14, 2004",
+      "user": ["Hellena John", "(Virtual 7007)"],
+      "receipt": "#200257",
+      "memo": "21-00006",
+      "quickbooks": "Expense"
+    },
+    {
+      "id": 9,
+      "merchantName": "Max",
+      "product": "casio",
+      "amount": "$42,000",
+      "date": "Apr 14, 2004",
+      "user": ["Hellena John", "(Virtual 7007)"],
+      "receipt": "#200257",
+      "memo": "21-00006"
+    },
+    {
+      "id": 10,
+      "merchantName": "Max",
+      "product": "casio",
+      "amount": "$42,000",
+      "date": "Apr 14, 2004",
+      "user": ["Hellena John", "(Virtual 7007)"],
+      "receipt": "#200257",
+      "memo": "21-00006"
+    },
+    {
+      "id": 11,
+      "merchantName": "Max",
+      "product": "casio",
+      "amount": "$42,000",
+      "date": "Apr 14, 2004",
+      "user": ["Hellena John", "(Virtual 7007)"],
+      "receipt": "#200257",
+      "memo": "21-00006"
+    },
+    {
+      "id": 12,
+      "merchantName": "Uniqlo",
+      "product": "casio",
+      "amount": "$42,000",
+      "date": "Apr 14, 2004",
+      "user": ["Hellena John", "(Virtual 7007)"],
+      "receipt": "#200257",
+      "memo": "21-00006"
+    },
+    {
+      "id": 13,
+      "merchantName": "Uniqlo",
+      "product": "casio",
+      "amount": "$42,000",
+      "date": "Apr 14, 2004",
+      "user": ["Hellena John", "(Virtual 7007)"],
+      "receipt": "#200257",
+      "memo": "21-00006"
+    }
+  ],
+  "drafts": [
+    {
+      "id": 2,
+      "employees": "marry",
+      "amount": "$46,000",
+      "due_date": "Apr 09, 2011",
+      "invoice_date": "Sep 27, 2016",
+      "invoice_no": "#526587",
+      "invoice": "/home/krisv/Desktop/Zemosolabs-20211002T184509Z-001/Zemosolabs/BC-73-Ramp-Card-with-Auth-0/frontend/public/assets/icons/invoiceicon.svg",
+      "account_no": "5205896212",
+      "next_step": "",
+      "joining_date": "Aug 27, 2019"
+    },
+    {
+      "id": 4,
+      "employees": "vinod",
+      "amount": "$46,000",
+      "due_date": "Apr 09, 2011",
+      "invoice_date": "Sep 27, 2016",
+      "invoice_no": "#526587",
+      "invoice": "/home/krisv/Desktop/Zemosolabs-20211002T184509Z-001/Zemosolabs/BC-73-Ramp-Card-with-Auth-0/frontend/public/assets/icons/invoiceicon.svg",
+      "account_no": "5205896212",
+      "next_step": "",
+      "joining_date": "Jan 31, 2000"
+    },
+    {
+      "id": 5,
+      "employees": "Snow",
+      "amount": "$46,000",
+      "due_date": "Apr 09, 2011",
+      "invoice_date": "Sep 27, 2016",
+      "invoice_no": "#526587",
+      "invoice": "/home/krisv/Desktop/Zemosolabs-20211002T184509Z-001/Zemosolabs/BC-73-Ramp-Card-with-Auth-0/frontend/public/assets/icons/invoiceicon.svg",
+      "account_no": "5205896212",
+      "next_step": "",
+      "joining_date": "Apr 09, 2011"
+    },
+    {
+      "id": 6,
+      "employees": "Snow",
+      "amount": "$46,000",
+      "due_date": "Apr 09, 2011",
+      "invoice_date": "Sep 27, 2016",
+      "invoice_no": "#526587",
+      "invoice": "/home/krisv/Desktop/Zemosolabs-20211002T184509Z-001/Zemosolabs/BC-73-Ramp-Card-with-Auth-0/frontend/public/assets/icons/invoiceicon.svg",
+      "account_no": "5205896212",
+      "next_step": "",
+      "joining_date": "Mar 22, 2013"
+    },
+    {
+      "id": 7,
+      "employees": "Snow",
+      "amount": "$46,000",
+      "due_date": "Apr 09, 2011",
+      "invoice_date": "Sep 27, 2016",
+      "invoice_no": "#526587",
+      "invoice": "/home/krisv/Desktop/Zemosolabs-20211002T184509Z-001/Zemosolabs/BC-73-Ramp-Card-with-Auth-0/frontend/public/assets/icons/invoiceicon.svg",
+      "account_no": "5205896212",
+      "next_step": "",
+      "joining_date": "May 16, 2005"
+    },
+    {
+      "id": 8,
+      "employees": "Snow",
+      "amount": "$46,000",
+      "due_date": "Apr 09, 2011",
+      "invoice_date": "Sep 27, 2016",
+      "invoice_no": "#526587",
+      "invoice": "/home/krisv/Desktop/Zemosolabs-20211002T184509Z-001/Zemosolabs/BC-73-Ramp-Card-with-Auth-0/frontend/public/assets/icons/invoiceicon.svg",
+      "account_no": "5205896212",
+      "next_step": "",
+      "joining_date": "May 16, 2005"
+    },
+    {
+      "id": 9,
+      "employees": "Snow",
+      "amount": "$46,000",
+      "due_date": "Apr 09, 2011",
+      "invoice_date": "Sep 27, 2016",
+      "invoice_no": "#526587",
+      "invoice": "/home/krisv/Desktop/Zemosolabs-20211002T184509Z-001/Zemosolabs/BC-73-Ramp-Card-with-Auth-0/frontend/public/assets/icons/invoiceicon.svg",
+      "account_no": "5205896212",
+      "next_step": "",
+      "joining_date": "May 16, 2005"
+    },
+    {
+      "id": 10,
+      "employees": "Snow",
+      "amount": "$46,000",
+      "due_date": "Apr 09, 2011",
+      "invoice_date": "Sep 27, 2016",
+      "invoice_no": "#526587",
+      "invoice": "/home/krisv/Desktop/Zemosolabs-20211002T184509Z-001/Zemosolabs/BC-73-Ramp-Card-with-Auth-0/frontend/public/assets/icons/invoiceicon.svg",
+      "account_no": "5205896212",
+      "next_step": "",
+      "joining_date": "May 16, 2005"
+    },
+    {
+      "employees": "Julie Mendez",
+      "amount": "123.4",
+      "due_date": "2023-05-07",
+      "invoice_date": "2023-05-02",
+      "invoice_no": "1232",
+      "account_no": 7355864,
+      "next_step": "<button>click</button>",
+      "joining_date": "2021-09-17",
+      "id": 11
+    }
+  ],
+  "payments": [
+    {
+      "id": 101,
+      "employees": "Julie Mendez",
+      "amount": "$2864.50",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "2020-01-17",
+      "invoice_date": "2020-04-07",
+      "next_step": "<button>click</button>"
+    },
+    {
+      "id": 102,
+      "employees": "Julie Mendez",
+      "amount": "$2864.50",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "2020-01-17",
+      "invoice_date": "2020-04-07",
+      "next_step": "<button>click</button>"
+    },
+    {
+      "id": 103,
+      "employees": "Julie Mendez",
+      "amount": "$2864.50",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "2020-01-17",
+      "invoice_date": "2020-04-07",
+      "next_step": "<button>click</button>"
+    },
+    {
+      "id": 104,
+      "employees": "Julie Mendez",
+      "amount": "$2864.50",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "2020-01-17",
+      "invoice_date": "2020-04-07",
+      "next_step": "<button>click</button>"
+    },
+    {
+      "id": 105,
+      "employees": "Julie Mendez",
+      "amount": "$2864.50",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "2020-01-17",
+      "invoice_date": "2020-04-07",
+      "next_step": "<button>click</button>"
+    },
+    {
+      "id": 106,
+      "employees": "Julie Mendez",
+      "amount": "$2864.50",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "2020-01-17",
+      "invoice_date": "2020-04-07",
+      "next_step": "<button>click</button>"
+    },
+    {
+      "id": 107,
+      "employees": "Julie Mendez",
+      "amount": "$2864.50",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "2020-01-17",
+      "invoice_date": "2020-04-07",
+      "next_step": "<button>click</button>"
+    },
+    {
+      "id": 108,
+      "employees": "Julie Mendez",
+      "amount": "$2864.50",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "2020-01-17",
+      "invoice_date": "2020-04-07",
+      "next_step": "<button>click</button>"
+    },
+    {
+      "id": 109,
+      "employees": "Julie Mendez",
+      "amount": "$2864.50",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "2020-01-17",
+      "invoice_date": "2020-04-07",
+      "next_step": "<button>click</button>"
+    },
+    {
+      "id": 110,
+      "employees": "Julie Mendez",
+      "amount": "$2864.50",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "2020-01-17",
+      "invoice_date": "2020-04-07",
+      "next_step": "<button>click</button>"
+    },
+    {
+      "id": 111,
+      "employees": "Julie Mendez",
+      "amount": "$2864.50",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "2020-01-17",
+      "invoice_date": "2020-04-07",
+      "next_step": "<button>click</button>"
+    },
+    {
+      "id": 112,
+      "employees": "Julie Mendez",
+      "amount": "$2864.50",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "2020-01-17",
+      "invoice_date": "2020-04-07",
+      "next_step": "<button>click</button>"
+    },
+    {
+      "employees": "Bindu",
+      "amount": "$46,000",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "Apr 24, 2011",
+      "invoice_date": "Sep 27, 2016",
+      "next_step": "",
+      "id": 113
+    },
+    {
+      "employees": "vikram",
+      "amount": "$46,000",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "Apr 09, 2011",
+      "invoice_date": "Sep 27, 2016",
+      "next_step": "",
+      "id": 114
+    },
+    {
+      "employees": "Snow jang",
+      "amount": "$46,000",
+      "ach": "ACH",
+      "payment_status": "Scheduled",
+      "payment_date": "2020-01-17",
+      "due_date": "Apr 09, 2011",
+      "invoice_date": "Sep 27, 2016",
+      "next_step": "<button>click</button>",
+      "id": 115
+    }
+  ]
+}
